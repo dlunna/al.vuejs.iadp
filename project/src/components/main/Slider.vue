@@ -8,8 +8,8 @@
         <div class="carousel-inner">
 
             <div class="carousel-item active">
-                <!-- <img src="https://via.placeholder.com/1200x400/ff0000/ffffff?text=First+Slide" class="d-block w-100" alt="First Slide"> -->
-                <img class="img-responsive" src="/slider1.jpg">
+                
+                <img class="img-responsive" src="/slider/inicio/slider1.jpg">
 
                 <div class="carousel-caption">
                     <h2>Instituto Alpha de Pachuca</h2>
@@ -18,7 +18,7 @@
             </div>
             <div class="carousel-item">
                 <!-- <img src="https://via.placeholder.com/1200x400/00ff00/ffffff?text=Second+Slide" class="d-block w-100" alt="Second Slide"> -->
-                <img class="img-responsive" src="/slider2.jpg">
+                <img class="img-responsive" src="/slider/inicio/slider2.jpg">
                 <div class="carousel-caption">
                     <h2>Instituto Alpha de Pachuca</h2>
                     <!--<p>Description</p>-->
@@ -26,7 +26,7 @@
             </div>
             <div class="carousel-item">
                 <!-- <img src="https://via.placeholder.com/1200x400/0000ff/ffffff?text=Third+Slide" class="d-block w-100" alt="Third Slide"> -->
-                <img class="img-responsive" src="/slider3.jpg">
+                <img class="img-responsive" src="/slider/inicio/slider3.jpg">
                 <div class="carousel-caption">
                     <h2>Instituto Alpha de Pachuca</h2>
                     <!--<p>Description</p>-->
