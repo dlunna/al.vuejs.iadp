@@ -1,5 +1,5 @@
 <script setup>
-import Slider from '../components/main/Slider.vue'
+import Slider from '../components/core/Slider.vue'
 import SearchBar from '../components/core/searchbar.vue'
 import Footer from '../components/core/footer.vue'
 
@@ -35,10 +35,11 @@ import Map from '../components/main/Map.vue'
     background-color: #ece5d9;
 }
 
-.mysidebar {
+
+/* .mysidebar {
     height: 700px;
 }
-
+ */
 
 
 
